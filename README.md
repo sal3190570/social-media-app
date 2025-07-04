@@ -7,7 +7,7 @@ Built a full-stack social media application featuring posts, feeds, likes, modal
 ## Install Packages
 
 ```bash
-npm install
+npm i
 ```
 
 ## Setup .env file
