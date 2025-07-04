@@ -2,7 +2,7 @@
 
 <img width="1440" alt="Social Media App Image" src="https://i.postimg.cc/FH3ybQGW/Social-Media-App.png">
 
-Developed a full-stack social media app with features like posts, post feeds, likes, modals, and authentication, using Firebase for database management.
+Built a full-stack social media application featuring posts, feeds, likes, modals, and secure authentication, leveraging Firebase for database management.
 
 ## Install Packages
 
